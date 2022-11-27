@@ -24,7 +24,9 @@ You're good to go. Start drawing in tldraw and test the different functions.
 
 For each workshop session, explain quickly what you'll learn and why it's needed.
 
-### Dave Gray's visual alphabet
+### The visual alphabet
+
+To make drawing easier without thinking too much, use a visual alphabet to simplify the process. We will use [Dave Gray's visual alphabet](https://medium.com/the-xplane-collection/in-defense-of-the-visual-alphabet-a8dcca7cf151).
 
 ### Draw fast
 
