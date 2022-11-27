@@ -20,22 +20,22 @@ Create a tldraw file type by using the file extention `.tldr`.
 You're good to go. Start drawing in tldraw and test the different functions.
 
 
-## Workshops
+## The 4 workshop sessions
 
 For each workshop session, explain quickly what you'll learn and why it's needed.
 
-### The visual alphabet
+### 1. The visual alphabet
 
 To make drawing easier without thinking too much, use a visual alphabet to simplify the process. We will use [Dave Gray's visual alphabet](https://medium.com/the-xplane-collection/in-defense-of-the-visual-alphabet-a8dcca7cf151).
 
-### Draw fast
+### 2. Draw fast
 
 How to simplify and when to add details.
 
-### Human beeings and interaction
+### 3. Human beeings and interaction
 
 We create software to help people. For this we often need to explain interactions between people or people and machines.
 
-### Storytelling and design critique
+### 4. Storytelling and design critique
 
-Get better at telling stories that communicate well. Within teams, to stakeholders and users.
+Get better at telling stories that communicate well through drawing and design critique.
