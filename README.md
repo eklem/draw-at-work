@@ -18,3 +18,22 @@ Create a tldraw file type by using the file extention `.tldr`.
 ### Draw something!
 
 You're good to go. Start drawing in tldraw and test the different functions.
+
+
+## Workshops
+
+For each workshop session, explain quickly what you'll learn and why it's needed.
+
+### Dave Gray's visual alphabet
+
+### Draw fast
+
+How to simplify and when to add details.
+
+### Human beeings and interaction
+
+We create software to help people. For this we often need to explain interactions between people or people and machines.
+
+### Storytelling and design critique
+
+Get better at telling stories that communicate well. Within teams, to stakeholders and users.
