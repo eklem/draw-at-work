@@ -81,7 +81,7 @@
       "brush": null,
       "scribble": null,
       "cursor": {
-        "type": "cross",
+        "type": "default",
         "rotation": 0
       },
       "isFocusMode": false,
@@ -113,9 +113,9 @@
       "typeName": "instance"
     },
     {
-      "x": 204.72254870142137,
-      "y": -1010.2972580021517,
-      "z": 0.6438000474596084,
+      "x": 964.5521209758213,
+      "y": 1521.7403456217176,
+      "z": 0.2507682306667514,
       "meta": {},
       "id": "camera:page:PsU150Vw-aRT2Ib5GL30T",
       "typeName": "camera"
@@ -123,7 +123,9 @@
     {
       "editingShapeId": null,
       "croppingShapeId": null,
-      "selectedShapeIds": [],
+      "selectedShapeIds": [
+        "shape:WW7IDbZm93coOLoz-BWeQ"
+      ],
       "hoveredShapeId": null,
       "erasingShapeIds": [],
       "hintingShapeIds": [],
@@ -136,9 +138,9 @@
     {
       "id": "pointer:pointer",
       "typeName": "pointer",
-      "x": 171.3404478071177,
-      "y": 2632.2099995750877,
-      "lastActivityTimestamp": 1696502843203,
+      "x": -869.4069945913433,
+      "y": 2470.1802909692146,
+      "lastActivityTimestamp": 1696502871061,
       "meta": {}
     },
     {
@@ -129405,8 +129407,8 @@
       "typeName": "shape"
     },
     {
-      "x": 257.5117623626564,
-      "y": 2684.5580818491685,
+      "x": 117.68455312518034,
+      "y": 74.57825246404127,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -129954,13 +129956,13 @@
         "isClosed": true,
         "isPen": false
       },
-      "parentId": "page:PsU150Vw-aRT2Ib5GL30T",
-      "index": "ag",
+      "parentId": "shape:l_Q1rMTKwcdVPXcmUOXwM",
+      "index": "a1",
       "typeName": "shape"
     },
     {
-      "x": 395.6919379474814,
-      "y": 2665.1443323445037,
+      "x": 255.86472871000535,
+      "y": 55.16450295937648,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -130283,13 +130285,13 @@
         "isClosed": false,
         "isPen": false
       },
-      "parentId": "page:PsU150Vw-aRT2Ib5GL30T",
-      "index": "ah",
+      "parentId": "shape:l_Q1rMTKwcdVPXcmUOXwM",
+      "index": "a2",
       "typeName": "shape"
     },
     {
-      "x": 459.352037324177,
-      "y": 2679.9004667025024,
+      "x": 319.52482808670095,
+      "y": 69.92063731737517,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -130752,13 +130754,13 @@
         "isClosed": true,
         "isPen": false
       },
-      "parentId": "page:PsU150Vw-aRT2Ib5GL30T",
-      "index": "ai",
+      "parentId": "shape:l_Q1rMTKwcdVPXcmUOXwM",
+      "index": "a3",
       "typeName": "shape"
     },
     {
-      "x": 255.63001133562085,
-      "y": 2671.842840704385,
+      "x": 115.80280209814481,
+      "y": 61.863011319257566,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -130886,13 +130888,13 @@
         "isClosed": false,
         "isPen": false
       },
-      "parentId": "page:PsU150Vw-aRT2Ib5GL30T",
-      "index": "ak",
+      "parentId": "shape:l_Q1rMTKwcdVPXcmUOXwM",
+      "index": "a4",
       "typeName": "shape"
     },
     {
-      "x": 252.0865974930751,
-      "y": 2658.1545844907146,
+      "x": 112.25938825559905,
+      "y": 48.17475510558734,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -131140,13 +131142,13 @@
         "isClosed": false,
         "isPen": false
       },
-      "parentId": "page:PsU150Vw-aRT2Ib5GL30T",
-      "index": "al",
+      "parentId": "shape:l_Q1rMTKwcdVPXcmUOXwM",
+      "index": "a5",
       "typeName": "shape"
     },
     {
-      "x": 205.7795179617235,
-      "y": 2684.5845685628537,
+      "x": 65.95230872424747,
+      "y": 74.60473917772651,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -131669,13 +131671,13 @@
         "isClosed": true,
         "isPen": false
       },
-      "parentId": "page:PsU150Vw-aRT2Ib5GL30T",
-      "index": "am",
+      "parentId": "shape:l_Q1rMTKwcdVPXcmUOXwM",
+      "index": "a6",
       "typeName": "shape"
     },
     {
-      "x": 397.7063444470108,
-      "y": 2672.352509818724,
+      "x": 257.87913520953475,
+      "y": 62.37268043359654,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -131773,13 +131775,13 @@
         "isClosed": false,
         "isPen": false
       },
-      "parentId": "page:PsU150Vw-aRT2Ib5GL30T",
-      "index": "an",
+      "parentId": "shape:l_Q1rMTKwcdVPXcmUOXwM",
+      "index": "a7",
       "typeName": "shape"
     },
     {
-      "x": 382.0522216494627,
-      "y": 2628.5452359434144,
+      "x": 242.22501241198665,
+      "y": 18.565406558287123,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -131917,8 +131919,59 @@
         "isClosed": false,
         "isPen": false
       },
+      "parentId": "shape:l_Q1rMTKwcdVPXcmUOXwM",
+      "index": "a8",
+      "typeName": "shape"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:l_Q1rMTKwcdVPXcmUOXwM",
+      "type": "group",
+      "parentId": "shape:WW7IDbZm93coOLoz-BWeQ",
+      "index": "a1",
+      "props": {},
+      "typeName": "shape"
+    },
+    {
+      "x": 106.74891115177059,
+      "y": 264.7488766905203,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:d8ypIea9ULcup6CR-iaTI",
+      "type": "text",
+      "props": {
+        "color": "black",
+        "size": "xl",
+        "w": 92.578125,
+        "text": "bike",
+        "font": "draw",
+        "align": "middle",
+        "autoSize": true,
+        "scale": 1
+      },
+      "parentId": "shape:WW7IDbZm93coOLoz-BWeQ",
+      "index": "a2",
+      "typeName": "shape"
+    },
+    {
+      "x": 139.82720923747604,
+      "y": 2609.9798293851272,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:WW7IDbZm93coOLoz-BWeQ",
+      "type": "group",
       "parentId": "page:PsU150Vw-aRT2Ib5GL30T",
-      "index": "ao",
+      "index": "ap",
+      "props": {},
       "typeName": "shape"
     }
   ]
