@@ -51,7 +51,7 @@
 			"opacityForNextShape": 1,
 			"stylesForNextShape": {
 				"tldraw:textAlign": "start",
-				"tldraw:size": "l"
+				"tldraw:size": "xl"
 			},
 			"brush": null,
 			"scribbles": [],
@@ -66,8 +66,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 2115,
-				"h": 1301
+				"w": 1229,
+				"h": 830
 			},
 			"zoomBrush": null,
 			"isGridMode": false,
@@ -96,9 +96,9 @@
 			"duplicateProps": null
 		},
 		{
-			"x": 2007.9425631678541,
-			"y": 1953.8617833761984,
-			"z": 0.2339458190370478,
+			"x": 590.9266312909579,
+			"y": 2214.3300279110704,
+			"z": 0.3388877476079014,
 			"meta": {},
 			"id": "camera:page:PsU150Vw-aRT2Ib5GL30T",
 			"typeName": "camera"
@@ -119,9 +119,9 @@
 		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": 2150.5389989494724,
-			"y": 803.3204251156424,
-			"lastActivityTimestamp": 1716897874009,
+			"x": 388.37994542241665,
+			"y": -1626.8844020209995,
+			"lastActivityTimestamp": 1716981436174,
 			"meta": {}
 		},
 		{
@@ -190962,6 +190962,29 @@
 			"parentId": "page:PsU150Vw-aRT2Ib5GL30T",
 			"index": "b0x",
 			"props": {},
+			"typeName": "shape"
+		},
+		{
+			"x": -250.0371366586553,
+			"y": -1965.7828562387053,
+			"rotation": 0,
+			"isLocked": true,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:kGr0iPTOY4k_V8s5ZLuPG",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "xl",
+				"w": 725.328125,
+				"text": "Draw to communicate workshop",
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 4.102602087633793
+			},
+			"parentId": "page:PsU150Vw-aRT2Ib5GL30T",
+			"index": "b0y",
 			"typeName": "shape"
 		}
 	]
