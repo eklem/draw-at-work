@@ -1,7 +1,7 @@
-# Draw to communicate workshop setup
+# Draw at work!
 Workshops to learn how to draw to communicate. Not art, communication. Everyone can. Doesn't need to be pretty. Communicate better within teams and stakeholders.
 
-## Why draw at work
+## Why?
 
 1. To think better and sort your ideas
 2. To communicate your ideas to others
