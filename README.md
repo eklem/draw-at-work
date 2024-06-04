@@ -1,41 +1,32 @@
 # Draw to communicate workshop setup
-Templates and tools for workshops to learn how to draw to communicate. Not art, communication. Everyone can. Doesn't need to be pretty. Communicate better within teams and stakeholders.
+Workshops to learn how to draw to communicate. Not art, communication. Everyone can. Doesn't need to be pretty. Communicate better within teams and stakeholders.
 
-## Prerequisite
+## Why draw at work
 
-### Install Visual Studio Code
+1. To think better and sort your ideas
+2. To communicate your ideas to others
 
-Download and install [Visual Studio Code](https://code.visualstudio.com/)
-
-### Get the tldraw extension to Visual Studio Code
-
-Search for the `tldraw` extension in Visual Studio Code, and install. tldraw is short for [Tiny little drawing app](https://www.tldraw.com/).
-
-### Create a .tldr-file
-
-Create a tldraw file type by using the file extention `.tldr`.
-
-### Draw something!
-
-You're good to go. Start drawing in tldraw and test the different functions.
-
-
-## The 4 workshop sessions
+## 3 basic workshop sessions
 
 For each workshop session, explain quickly what you'll learn and why it's needed.
 
-### 1. The visual alphabet
+### The visual alphabet
 
 To make drawing easier without thinking too much, use a visual alphabet to simplify the process. We will use [Dave Gray's visual alphabet](https://medium.com/the-xplane-collection/in-defense-of-the-visual-alphabet-a8dcca7cf151).
 
-### 2. Draw fast
+### Draw fast
 
 How to simplify and when to add details.
 
-### 3. Human beeings and interaction
+### Human beeings and interaction
 
 We create software to help people. For this we often need to explain interactions between people or people and machines.
 
-### 4. Storytelling and design critique
+## 4. Practicing
 
-Get better at telling stories that communicate well through drawing and design critique.
+Drawing battles. Get better at telling stories that communicate well through drawing and design critique.
+
+1. Choose a story. Write it down
+2. Draw (all of you)
+3. Design critique
+4. Draw again
