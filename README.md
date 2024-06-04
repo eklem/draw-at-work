@@ -22,7 +22,7 @@ How to simplify and when to add details.
 
 We create software to help people. For this we often need to explain interactions between people or people and machines.
 
-## 4. Practicing
+## Practicing
 
 Drawing battles. Get better at telling stories that communicate well through drawing and design critique.
 
