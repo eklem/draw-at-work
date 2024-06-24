@@ -1,0 +1,25 @@
+#workshopagenda {
+  width: 360px;
+  left: 0 px;
+  top: 0px;
+  padding: 20px;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.taskDone {
+  float: right;
+}
+
+.task {
+  width: 320px;
+  
+}
+
+p.time {
+  color:darkslategray;
+  font-style: italic;
+}
+
+p, li {
+  line-height: 1.4;
+}
