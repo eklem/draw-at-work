@@ -1,4 +1,4 @@
-import './Workshop.css'
+import './index.css'
 
 export default function Workshop01() {
 	return (
