@@ -44,7 +44,7 @@ To preview and hot-reload when developing:
 
 ```console
 cd ./react
-./node_modules/vite/bin/vite.js preview
+npm run dev
 ```
 
 ### Build
@@ -53,5 +53,5 @@ To build static html to be published to github.io-page:
 
 ```console
 cd ./react
-./node_modules/vite/bin/vite.js build
+npm run build build
 ```

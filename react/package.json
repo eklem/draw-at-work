@@ -12,7 +12,8 @@
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "tldraw": "^2.2.1"
+    "react-router-dom": "^6.25.1",
+    "tldraw": "^2.4.1"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
