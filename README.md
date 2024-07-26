@@ -33,3 +33,25 @@ Drawing battles. Get better at telling stories that communicate well through dra
 2. Draw (all of you)
 3. Design critique
 4. Draw again
+
+## React and Vite setup
+
+React app can be found in the `/react` folder. 
+
+### Dev
+
+To preview and hot-reload when developing:
+
+```console
+cd ./react
+./node_modules/vite/bin/vite.js preview
+```
+
+### Build
+
+To build static html to be published to github.io-page:
+
+```console
+cd ./react
+./node_modules/vite/bin/vite.js build
+```
