@@ -5,13 +5,11 @@ import Root from './routes/root'
 import WorkshopA from './routes/workshop-a'
 import WorkshopB from './routes/workshop-b'
 import WorkshopC from './routes/workshop-c'
-import ErrorPage from './error-page'
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Root />,
-    errorElement: <ErrorPage />,
   },
   {
     path: "workshopA/",
