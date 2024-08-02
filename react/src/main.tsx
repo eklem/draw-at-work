@@ -2,9 +2,11 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import Root from './routes/root'
-import WorkshopA from './routes/workshop-a'
-import WorkshopB from './routes/workshop-b'
-import WorkshopC from './routes/workshop-c'
+import WorkshopA from './routes/workshopA'
+import WorkshopB from './routes/workshopB'
+import WorkshopC from './routes/workshopC'
+
+
 
 const router = createBrowserRouter([
   {
