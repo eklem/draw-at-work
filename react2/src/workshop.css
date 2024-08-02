@@ -109,28 +109,3 @@ p.time {
 p, li {
   line-height: 1.4;
 }
-
-.taskDone {
-  float: right;
-}
-
-.task {
-  width: 320px;
-  
-}
-
-p.time {
-  color:darkslategray;
-  font-style: italic;
-}
-
-p, li {
-  line-height: 1.4;
-}
-
-#tldrawcontainer {
-  width: calc(100% - 400px);
-  left: 400px !important;
-  top: 0px;
-}
-
