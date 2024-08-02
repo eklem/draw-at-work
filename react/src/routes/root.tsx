@@ -5,9 +5,9 @@ export default function Root() {
 
       <h2>Workshop exercises</h2>
 
-      <h3><a href="/workshopA">A - The visual alphabet</a></h3>
-      <h3><a href="/workshopB">B - Speed & Precision</a></h3>
-      <h3><a href="/workshopC">C - Humans & Interaction</a></h3>
+      <h3><a href="#workshopA">A - The visual alphabet</a></h3>
+      <h3><a href="#workshopB">B - Speed & Precision</a></h3>
+      <h3><a href="#workshopC">C - Humans & Interaction</a></h3>
     </div>
   );
 }

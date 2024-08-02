@@ -3,6 +3,8 @@ Workshops to learn how to draw to communicate. Not art, communication. Everyone 
 
 ![Screenshot of first take on React app - work in progress](https://github.com/eklem/draw-at-work/assets/236656/66f92f48-9582-4967-ac7f-a4d92d341853)
 
+How far I've gotten with the [Draw at work workshop](https://eklem.github.io/draw-at-work/).
+
 
 ## Why?
 
@@ -53,5 +55,12 @@ To build static html to be published to github.io-page:
 
 ```console
 cd ./react
-npm run build build
+npm run build
+```
+
+### Deploy to GitHub pages
+
+```console
+cd ./react
+npm run deploy
 ```
