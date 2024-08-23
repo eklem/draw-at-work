@@ -1,5 +1,5 @@
 # Draw at work!
-Workshops to learn how to draw to communicate. Not art, communication. Everyone can. Doesn't need to be pretty. Communicate better within teams and stakeholders.
+Workshops to learn how to draw to communicate. And structure your ideas. Not art, but communication. Everyone can. Doesn't need to be pretty. Communicate better within teams and stakeholders.
 
 ![Screenshot of first take on React app - work in progress](https://github.com/eklem/draw-at-work/assets/236656/66f92f48-9582-4967-ac7f-a4d92d341853)
 
