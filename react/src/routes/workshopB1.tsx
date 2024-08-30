@@ -6,8 +6,8 @@ export default function WorkshopB1() {
   return (
     <div>
       <div id="workshopagenda" style={{ position: 'fixed'}}>
-        <h1>A - The visual alphabet</h1>
-        <TaskCheckbox id="1" value="workshopB1"/>
+        <h1>B1 - The visual alphabet</h1>
+        <TaskCheckbox id="b1.1" value="b1"/>
         <div className="task">
           <h2 className="tasktitle">Using the visual alphabet</h2>
           <p className="task">Use the pencil <img alt='pen' style={{ width: 20 }} src={String('https://unpkg.com/@tldraw/assets@2.2.1/icons/icon/tool-pencil.svg')} /> in the bottom toolbar to draw the visual alphabet:</p>
@@ -19,7 +19,7 @@ export default function WorkshopB1() {
         </div>
       </div>
       <div id="tldrawcontainer" style={{ position: 'fixed', inset: 0 }}>
-        <Tldraw persistenceKey="workshopA" />
+        <Tldraw persistenceKey="workshopB1" />
       </div>
     </div>
   )

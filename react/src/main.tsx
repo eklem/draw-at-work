@@ -22,7 +22,7 @@ const router = createHashRouter([
     element: <WorkshopB2 />,
   },
   {
-    path: "workshopC3/",
+    path: "workshopB3/",
     element: <WorkshopB3 />,
   },
 ])
