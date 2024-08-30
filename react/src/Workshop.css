@@ -92,7 +92,7 @@ button:focus-visible {
   font-family: Helvetica, Arial, sans-serif;
 }
 
-.taskDone {
+input[type="checkbox"] {
   float: right;
 }
 

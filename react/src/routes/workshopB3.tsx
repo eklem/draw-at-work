@@ -1,7 +1,7 @@
 import { Tldraw } from 'tldraw'
 import '../workshop.css'
 
-export default function WorkshopC() {
+export default function WorkshopB3() {
   return (
     <div>
       <div id="workshopagenda" style={{ position: 'fixed'}}>

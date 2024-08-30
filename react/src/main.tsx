@@ -2,9 +2,9 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import { createHashRouter, RouterProvider } from 'react-router-dom'
 import Root from './routes/root'
-import WorkshopA from './routes/workshopA'
-import WorkshopB from './routes/workshopB'
-import WorkshopC from './routes/workshopC'
+import WorkshopB1 from './routes/workshopB1'
+import WorkshopB2 from './routes/workshopB2'
+import WorkshopB3 from './routes/workshopB3'
 
 
 
@@ -14,16 +14,16 @@ const router = createHashRouter([
     element: <Root />,
   },
   {
-    path: "workshopA/",
-    element: <WorkshopA />,
+    path: "workshopB1/",
+    element: <WorkshopB1 />,
   },
   {
-    path: "workshopB/",
-    element: <WorkshopB />,
+    path: "workshopB2/",
+    element: <WorkshopB2 />,
   },
   {
-    path: "workshopC/",
-    element: <WorkshopC />,
+    path: "workshopC3/",
+    element: <WorkshopB3 />,
   },
 ])
 
