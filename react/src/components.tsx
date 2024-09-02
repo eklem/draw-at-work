@@ -11,13 +11,13 @@ function TaskCheckbox(props: checkbox){
   // https://github.com/jakearchibald/idb?tab=readme-ov-file#article-store
   // https://github.com/jakearchibald/idb?tab=readme-ov-file#typescript
   // [code here]
-  console.log(props.id + ' ' + props.value + ' ' + done)
   
   function handleChange(e: any) {
     // change state in indexedDB
     // [code here]
     setDone(e.target.checked)
   }
+  console.log(props.id + ' ' + props.value + ' ' + done)
   return (
     <input type="checkbox" onChange={handleChange} id={props.id} value={props.value} checked={done}/>
   )
